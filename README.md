@@ -1,4 +1,4 @@
-# Data Wrangling with tweeter API key
+# Data Wrangling with Twitter Profile
 
 #### Requirment
 - twitter developer account 
